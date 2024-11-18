@@ -1,6 +1,5 @@
 ---
 layout: default
-theme: jekyll-theme-minimal
 ---
 
 # Biographical Information
