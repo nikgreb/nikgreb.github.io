@@ -1,9 +1,3 @@
-theme: minimal
-title: Nikolaus Greb, M.D.
-description: 
-
-
-
-
-
-
+theme: minima
+title: Nikolaus Greb's Data Science Page
+description: A page created the Intro to Data Science (CS 215)
