@@ -37,6 +37,10 @@ This is a visualization of my in class Intro to Data Science Project about day-t
 
 ## Above and Beyond
 
+CoSIBS Project Poster
+
+![]
+
 
 
 
