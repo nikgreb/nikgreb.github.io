@@ -38,7 +38,7 @@ This is a visualization of my in class Intro to Data Science Project about day-t
 ## Above and Beyond
 
 CoSIBS Project Poster
-!(https://github.com/nikgreb/nikgreb.github.io/blob/main/images/CoSIBS_Project.png)
+![From the Colorado Summer Institute in Biostatistics](https://github.com/nikgreb/nikgreb.github.io/blob/main/images/CoSIBS_Project.png)
 
 
 
