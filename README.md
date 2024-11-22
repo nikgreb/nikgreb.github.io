@@ -35,6 +35,8 @@ This is a visualization of my in class Intro to Data Science Project about day-t
 
 ![Schueller at Various Grocery Stores in the Walla Walla Area](https://github.com/nikgreb/nikgreb.github.io/blob/main/images/Where'sSchueller.png)
 
-## 
+## Above and Beyond
+
+
 
 
