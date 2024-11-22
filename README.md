@@ -31,6 +31,10 @@ My name is Nikolaus Greb and I'm a senior Mathematics-Statistics Major with Phys
 
 ## Where's Schueller? 
 
-This is a visualization of my in class Intro to Data Science Project about day-to-day the whereabouts of our professor, Albert Schueller. My partner and I decided to examine the 
+This is a visualization of my in class Intro to Data Science Project about day-to-day the whereabouts of our professor, Albert Schueller. My partner and I decided to examine the grocery store visitation frequency of Professor Schueller for various grocery stores in town.
 
 ![Schueller at Various Grocery Stores in the Walla Walla Area](https://github.com/nikgreb/nikgreb.github.io/blob/main/images/Where'sSchueller.png)
+
+## 
+
+
