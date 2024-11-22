@@ -33,5 +33,5 @@ My name is Nikolaus Greb and I'm a senior Mathematics-Statistics Major with Phys
 
 This is a visualization of my in class Intro to Data Science Project about day-to-day the whereabouts of our professor, Albert Schueller. My partner and I decided to examine the 
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/photo-name.jpg" alt="Description of the photo" width="600">
+<img src="[https://raw.githubusercontent.com/your-username/your-repo/main/images/photo-name.jpg](https://github.com/nikgreb/nikgreb.github.io/blob/main/images/Where'sSchueller.png)" alt="Description of the photo" width="600">
 
