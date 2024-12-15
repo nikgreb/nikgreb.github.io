@@ -35,6 +35,9 @@ This is a visualization of my in class Intro to Data Science Project about day-t
 
 ![Schueller at Various Grocery Stores in the Walla Walla Area](https://github.com/nikgreb/nikgreb.github.io/blob/main/images/Where'sSchueller.png)
 
+## Is it Worth it to Fire Your Coach in the National Football League?
+
+
 ## Above and Beyond
 
 CoSIBS Project Poster
