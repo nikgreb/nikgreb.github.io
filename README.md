@@ -35,7 +35,13 @@ This is a visualization of my in class Intro to Data Science Project about day-t
 
 ![Schueller at Various Grocery Stores in the Walla Walla Area](images/Where'sSchueller.png)
 
-## Is it Worth it to Fire Your Coach in the National Football League?
+## Data Science Final Project: Is it Worth it to Fire Your Coach in the National Football League?
+
+Below is a a link to my final project work for my Intro to Data Science class with Professor Schueller at Whitman College. My partners and I wanted to examine the effects of firing coaches in the NFL and attempt to determine if teams actually get better after firing their coach or if coach firings are a valueless remedy.
+
+[NFL Firings Project](https://nikgreb.github.io/NFLFirings/)
+
+
 
 
 ## Above and Beyond
